@@ -10,7 +10,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		global.json = global.json
 	EndProjectSection
 EndProject
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "ProMVC6", "src\ProMVC6\ProMVC6.xproj", "{834CAC4F-C049-4945-9D90-595FF9508544}"
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "DataBinding", "src\DataBinding\DataBinding.xproj", "{9D62CF7D-034D-4670-A25B-63973A24660F}"
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Identify", "src\Identify\Identify.xproj", "{B20D4B2F-6841-449C-A7CF-0071725A1F41}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -18,15 +20,20 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{834CAC4F-C049-4945-9D90-595FF9508544}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{834CAC4F-C049-4945-9D90-595FF9508544}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{834CAC4F-C049-4945-9D90-595FF9508544}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{834CAC4F-C049-4945-9D90-595FF9508544}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D62CF7D-034D-4670-A25B-63973A24660F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D62CF7D-034D-4670-A25B-63973A24660F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D62CF7D-034D-4670-A25B-63973A24660F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D62CF7D-034D-4670-A25B-63973A24660F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B20D4B2F-6841-449C-A7CF-0071725A1F41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B20D4B2F-6841-449C-A7CF-0071725A1F41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B20D4B2F-6841-449C-A7CF-0071725A1F41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B20D4B2F-6841-449C-A7CF-0071725A1F41}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{834CAC4F-C049-4945-9D90-595FF9508544} = {14E51A84-326F-4C97-ABEB-A35228D0373F}
+		{9D62CF7D-034D-4670-A25B-63973A24660F} = {14E51A84-326F-4C97-ABEB-A35228D0373F}
+		{B20D4B2F-6841-449C-A7CF-0071725A1F41} = {14E51A84-326F-4C97-ABEB-A35228D0373F}
 	EndGlobalSection
 EndGlobal
